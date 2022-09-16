@@ -284,6 +284,7 @@
       height: 250px;
       padding: 0;
       margin: 0;
+      list-style: none;
     }
 
     .footer__column_content_copyright {
@@ -310,11 +311,9 @@
     .footer__column_content_info {
       width: 130px;
       margin-left: 200px;
-      list-style: none;
     }
 
     .footer__column_content_social {
-      list-style: none;
       position: absolute;
       right: 0;
     }
